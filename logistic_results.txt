@@ -1,0 +1,5 @@
+Likelihood	0.0000
+Accuracy	0.7123
+F1.0	0.5152
+Precision	0.6382
+Recall	0.4319
